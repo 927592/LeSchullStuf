@@ -3,7 +3,7 @@ Hellcome to the skulz vault, everything in here is my Coding attempt 4 my sculsw
 > This is the journey of myself, learing C and Assembly for Microprocessor and Microcontroller.
 </br>
 </br>
-Schull tazk
+Schull tazk </br>
 - [X] Write sum goofy ATMega stuff on book
 - [X] Make 7-Seg Syncronize with the LED Number on ATMega16
 - [ ] Having A good life
